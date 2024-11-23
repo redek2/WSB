@@ -1,0 +1,14 @@
+C:\Users\redek\source\repos\Automatyka i robotyka 2\Automatyka i robotyka 2\bin\Debug\net8.0\Automatyka i robotyka 2.exe
+C:\Users\redek\source\repos\Automatyka i robotyka 2\Automatyka i robotyka 2\bin\Debug\net8.0\Automatyka i robotyka 2.deps.json
+C:\Users\redek\source\repos\Automatyka i robotyka 2\Automatyka i robotyka 2\bin\Debug\net8.0\Automatyka i robotyka 2.runtimeconfig.json
+C:\Users\redek\source\repos\Automatyka i robotyka 2\Automatyka i robotyka 2\bin\Debug\net8.0\Automatyka i robotyka 2.dll
+C:\Users\redek\source\repos\Automatyka i robotyka 2\Automatyka i robotyka 2\bin\Debug\net8.0\Automatyka i robotyka 2.pdb
+C:\Users\redek\source\repos\Automatyka i robotyka 2\Automatyka i robotyka 2\obj\Debug\net8.0\Automatyka i robotyka 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redek\source\repos\Automatyka i robotyka 2\Automatyka i robotyka 2\obj\Debug\net8.0\Automatyka i robotyka 2.AssemblyInfoInputs.cache
+C:\Users\redek\source\repos\Automatyka i robotyka 2\Automatyka i robotyka 2\obj\Debug\net8.0\Automatyka i robotyka 2.AssemblyInfo.cs
+C:\Users\redek\source\repos\Automatyka i robotyka 2\Automatyka i robotyka 2\obj\Debug\net8.0\Automatyka i robotyka 2.csproj.CoreCompileInputs.cache
+C:\Users\redek\source\repos\Automatyka i robotyka 2\Automatyka i robotyka 2\obj\Debug\net8.0\Automatyka i robotyka 2.dll
+C:\Users\redek\source\repos\Automatyka i robotyka 2\Automatyka i robotyka 2\obj\Debug\net8.0\refint\Automatyka i robotyka 2.dll
+C:\Users\redek\source\repos\Automatyka i robotyka 2\Automatyka i robotyka 2\obj\Debug\net8.0\Automatyka i robotyka 2.pdb
+C:\Users\redek\source\repos\Automatyka i robotyka 2\Automatyka i robotyka 2\obj\Debug\net8.0\Automatyka i robotyka 2.genruntimeconfig.cache
+C:\Users\redek\source\repos\Automatyka i robotyka 2\Automatyka i robotyka 2\obj\Debug\net8.0\ref\Automatyka i robotyka 2.dll
